@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqmH8TK/Yv+0EslHZHveIS1qpTlTd5EGB/INJKim9mcxh5UGoIrp8lDwwVseqwgi/9JW6gFfPyni/nXg5BXOSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcin Kubiak\\source\\repos\\Kulka\\Kulka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcin Kubiak\\.nuget\\packages\\doxygen\\1.8.14\\doxygen.1.8.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kulka</id>
+    <version>1.0.0</version>
+    <authors>Kulka</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Marcin Kubiak\Desktop\kulka\Kulka\bin\Debug\net6.0-windows\Kulka.runtimeconfig.json" target="lib\net6.0-windows7.0\Kulka.runtimeconfig.json" />
+    <file src="C:\Users\Marcin Kubiak\Desktop\kulka\Kulka\bin\Debug\net6.0-windows\Kulka.dll" target="lib\net6.0-windows7.0\Kulka.dll" />
+  </files>
+</package>
